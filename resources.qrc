@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/database">
+        <file>userDatabase</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background</file>
+        <file>icon</file>
+        <file>close.png</file>
+        <file>min.png</file>
+    </qresource>
+</RCC>
